@@ -1,4 +1,4 @@
-# introduccion a git y markdown
+# Introduccion a git y markdown
 ## Comandos del dia
 
 ```bash
